@@ -20,7 +20,7 @@ pip install transformers
 '''
 
 <!-- Datasets -->
-We use `bert` and `qwen` for text feature extraction and address search embedding, which can be found in the `dataset`([Baidu Cloud link](https://pan.baidu.com/s/1PlFWuetez--3sqL6adDzvQ) extraction code **6666**). And we also utilize adjacency matrix information in `adjacency_matrix` folder
+We use `bert` and `qwen` for text feature extraction and address search embedding, which can be found in the `dataset`([Baidu Cloud link](https://pan.baidu.com/s/19SpZ-jSGo8UQ3TAWGhVKxA) extraction code **6666**). And we also utilize adjacency matrix information in `adjacency_matrix` folder
 
 <!-- Usage -->
 To reproduce the code, please focus on the `GDES.py` and `NHPE.py` files. We use the data from the `dataset` and `adjacency_matrix` folders. You only need to replace the specified paths in `NHPE.py` and `GDES.py` with your corresponding paths.
